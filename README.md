@@ -32,7 +32,7 @@ OPTIONS:
 - Clone the repo
   
   ```bash
-  git clone *repo link will be here* && cd *repo name*
+  git clone https://github.com/galacticdisassembler/spm-license-check.git && cd spm-license-check
   ```
 
 - Build the project
